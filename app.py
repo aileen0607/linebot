@@ -41,7 +41,7 @@ def handle_message(event):
     r = "很抱歉你在問什麼?"
 
     if msg == 'hi':
-        r == 'hi'
+        r = 'hi'
     elif msg == '吃飽沒':
         r = '還沒'
 
